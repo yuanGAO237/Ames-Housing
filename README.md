@@ -2,7 +2,8 @@
 
 This is a predictive modeling project on Sale Price for Housing.
 
-The dataset is based on Ames Housing Dataset on Kaggle : https://www.kaggle.com/prevek18/ames-housing-dataset
+The dataset is based on Ames Housing Dataset on Kaggle :
+https://www.kaggle.com/prevek18/ames-housing-dataset
 
 With RMSE < 0.135 as the goal, the models picked are elastic net regression and xgboost.
 
