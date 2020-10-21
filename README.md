@@ -1,4 +1,4 @@
-# Ames-Housing Predictive Modeling
+# Ames Housing Predictive Modeling
 
 This is a predictive modeling project to predict Sale Price for Housing.
 
